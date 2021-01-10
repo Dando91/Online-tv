@@ -1,7 +1,219 @@
+#EXTM3U
+#EXTIF:-1,BET
 http://123tvnow.com/watch/bet/
+#EXTIF:-1,ADULT SWIM
 http://123tvnow.com/watch/adult-swim/
+#EXTIF:-1,AE 
 http://123tvnow.com/watch/ae/
+#EXTIF:-1,ABC
 http://123tvnow.com/watch/abc/
+#EXTIF:-1,AMERICAN HEROES CHANNEL
 http://123tvnow.com/watch/ahc-american-heroes-channel/
-http://123tvnow.com/watch/amc/
+#EXTIF:-1,ANIMAL PLANET
 http://123tvnow.com/watch/animal-planet/
+#EXTIF:-1,BBC AMERICA
+http://123tvnow.com/watch/bbc-america/
+#EXTIF:-1,BLOOMBERG USA
+http://123tvnow.com/watch/bloomberg-usa/
+#EXTIF:-1,BRAVO
+http://123tvnow.com/watch/bravo/
+#EXTIF:-1,C-SPAN
+http://123tvnow.com/watch/c-span/
+#EXTIF:-1,C-SPAN 2 (BOOK TV)
+http://123tvnow.com/watch/c-span2-book-tv/
+#EXTIF:-1,C-SPAN 3 ( AMERICAN HISTORY TV )
+http://123tvnow.com/watch/c-span3-american-history-tv/
+#EXTIF:-1,CALIFORNIA MUSIC CHANNEL ( CMC )
+http://123tvnow.com/watch/california-music-channel-cmc-tv/
+#EXTIF:-1,CARTOON NETWORK
+http://123tvnow.com/watch/cartoon-network-2/
+#EXTIF:-1,CBN NEWS
+http://123tvnow.com/watch/cbn-news/
+#EXTIF:-1,CBS
+http://123tvnow.com/watch/cbs/
+#EXTIF:-1,CBS NEWS
+http://123tvnow.com/watch/cbs-news-cbsn/
+#EXTIF:-1,COUNTRY MUSIC TELEVISION
+http://123tvnow.com/watch/cmt-country-music-television/
+#EXTIF:-1, CNBC
+http://123tvnow.com/watch/cnbc-2/
+#EXTIF:-1, CNN
+http://123tvnow.com/watch/cnn-20201017/
+#EXTIF:-1,COMEDY CENTRAL
+http://123tvnow.com/watch/comedy-central/
+#EXTIF:-1,DISNEY CHANNEL
+http://123tvnow.com/watch/disney-channel/
+#EXTIF:-1,DISNEY JUNIOR
+http://123tvnow.com/watch/disney-junior/
+#EXTIF:-1,DISNEY XD
+http://123tvnow.com/watch/disney-xd/
+#EXTIF:-1,DYI NETWORK
+http://123tvnow.com/watch/diy-network/
+#EXTIF:-1,E! NETWORK
+http://123tvnow.com/watch/e-network/
+#EXTIF:-1,ESPN
+http://123tvnow.com/watch/espn-20201106/
+#EXTIF:-1,ESPN NEWS
+http://123tvnow.com/watch/espn-news/
+#EXTIF:-1,ESPN U
+http://123tvnow.com/watch/espn-u-espnu/
+#EXTIF:-1,ESPN 2
+http://123tvnow.com/watch/espn2/
+#EXTIF:-1,FASHION TV GLOBAL
+http://123tvnow.com/watch/fashiontv-global/
+#EXTIF:-1,FOOD NETWORK
+http://123tvnow.com/watch/food-network/
+#EXTIF:-1,FOX BUSINESS
+http://123tvnow.com/watch/fox-business/
+#EXTIF:-1,FOX NETWORK
+http://123tvnow.com/watch/fox-network/
+#EXTIF:-1,FOX NEWS
+http://123tvnow.com/watch/fox-news-hd/
+#EXTIF:-1,FOX NEWS LD
+http://123tvnow.com/watch/fox-news-ld/
+#EXTIF:-1,FOX NEWS TALK
+http://123tvnow.com/watch/fox-news-talk-fox-news-radio/
+#EXTIF:-1,FOX NEWS SPORT 1
+http://123tvnow.com/watch/fox-sports-1/
+#EXTIF:-1,FOX NEWS SPORT 2
+http://123tvnow.com/watch/fox-sports-2-fs2-live/
+#EXTIF:-1,FREE SPEECH TV
+http://123tvnow.com/watch/free-speech-tv/
+#EXTIF:-1,FREEFORM ( ABC FAMILY )
+http://123tvnow.com/watch/freeform-abc-family/
+#EXTIF:-1,FASHION TV MIDNIGHT SERIES
+http://123tvnow.com/watch/ftv-midnight-secrets/
+#EXTIF:-1,FX
+http://123tvnow.com/watch/fx-live/
+#EXTIF:-1,GOLF CHANNEL
+http://123tvnow.com/watch/golf-channel/
+#EXTIF:-1,HBO
+http://123tvnow.com/watch/hbo/
+#EXTIF:-1,HGTV
+http://123tvnow.com/watch/hgtv/
+#EXTIF:-1,HISTORY CHANNEL
+http://123tvnow.com/watch/history-channel
+#EXTIF:-1,INFORWARS
+http://123tvnow.com/watch/infowars/
+#EXTIF:-1,LIFETIME
+http://123tvnow.com/watch/lifetime-tv/
+#EXTIF:-1,LOGO TV
+http://123tvnow.com/watch/logo-tv/
+#EXTIF:-1,LONGHORN NETWORK
+http://123tvnow.com/watch/longhorn-network-espnlhn/
+#EXTIF:-1,MSNBC
+http://123tvnow.com/watch/msnbc/
+#EXTIF:-1,MTV
+http://123tvnow.com/watch/mtv/
+#EXTIF:-1,NASA TV
+http://123tvnow.com/watch/nasa-tv/
+#EXTIF:-1,NATIONAL GEOGRAPHIC
+http://123tvnow.com/watch/national-geographic/
+#EXTIF:-1,NBA TV
+http://123tvnow.com/watch/nba-tv/
+#EXTIF:-1,NBC
+http://123tvnow.com/watch/nbc-20201017/
+#EXTIF:-1,NBC SPORT NETWORK
+http://123tvnow.com/watch/nbcsn-20201106/
+#EXTIF:-1,NEWS MAX TV
+http://123tvnow.com/watch/newsmax-tv/
+#EXTIF:-1,NFL NETWORK
+http://123tvnow.com/watch/nfl-network/
+#EXTIF:-1,NHL NETWORK
+http://123tvnow.com/watch/nhl-network/
+#EXTIF:-1,NICKELODEON
+http://123tvnow.com/watch/nickelodeon/
+#EXTIF:-1,OXYGEN
+http://123tvnow.com/watch/oxygen/
+#EXTIF:-1,SPIKE
+http://123tvnow.com/watch/paramount-network-spike/
+#EXTIF:-1,SCIENCE CHANNEL
+http://123tvnow.com/watch/science-channel/
+#EXTIF:-1,SEC NETWORK
+http://123tvnow.com/watch/sec-network/
+#EXTIF:-1,SHOWTIME
+http://123tvnow.com/watch/showtime/
+#EXTIF:-1,STARZ
+#EXhttp://123tvnow.com/watch/starz/
+#EXTIF:-1,SYFY
+http://123tvnow.com/watch/syfy/
+#EXTIF:-1,TBS
+http://123tvnow.com/watch/tbs/
+#EXTIF:-1,THE COUNTRY NETWORK
+http://123tvnow.com/watch/the-country-network/
+#EXTIF:-1,THE CW
+http://123tvnow.com/watch/the-cw/
+#EXTIF:-1,THE WEATHER CHANNEL
+http://123tvnow.com/watch/the-weather-channel/
+#EXTIF:-1,TLC
+http://123tvnow.com/watch/tlc/
+#EXTIF:-1,TNT
+http://123tvnow.com/watch/tnt/
+#EXTIF:-1,TRAVEL CHANNEL
+http://123tvnow.com/watch/travel-channel/
+#EXTIF:-1,TRU TV
+http://123tvnow.com/watch/trutv/
+#EXTIF:-1,TV LAND
+http://123tvnow.com/watch/tvland/
+#EXTIF:-1,USA
+http://123tvnow.com/watch/usa-network/
+#EXTIF:-1,VH1
+http://123tvnow.com/watch/vh1/
+#EXTIF:-1,V.O.A
+http://123tvnow.com/watch/voice-of-america-voa/
+#EXTIF:-1,WEATHER NATION
+http://123tvnow.com/watch/weathernation-tv
+#EXTIF:-1,WWWE
+http://123tvnow.com/watch/wwe-network/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
